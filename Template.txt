@@ -1,0 +1,87 @@
+[CENTER][IMG]https://avatars2.githubusercontent.com/u/29705874?v=4&s=200[/IMG]
+
+ " #[COLOR="SeaGreen"]Droid[/COLOR][COLOR="Red"]On[/COLOR][COLOR="Blue"]Time[/COLOR] " 
+
+
+[SIZE="5"][COLOR=Blue][B]Disclaimer[/B][/COLOR][/SIZE]
+[CODE]We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.[/CODE]
+
+"This is an user friendly thread, all your suggestions are important to us and will be taken into consideration.."
+
+[SIZE="5"][COLOR=Blue][B]About [COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR][/B][/COLOR][/SIZE]
+dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable an user to extract as much juice as possible and get most out of his/her device.
+Initially started by Mohan CM and later joined by Ganesh, Sam, Kuber, Iacob and Hari. Together we stand strong.
+
+[SIZE="5"][COLOR=Blue][B]Features[/B][/COLOR][/SIZE]
+
+Stability and Performance
+Lagfree with High Performance Results
+Clutterless UI
+Perfect Interface for every User
+
+Read more about Features here : [URL="https://dotos.github.io/index.html#features_section"]click here[/URL]
+
+
+[SIZE="5"][COLOR=Blue][B]Instructions[/B][/COLOR][/SIZE]
+[B]CLEAN FLASH :[/B]
+Download the latest build and GApps
+Reboot to recovery
+Make NAndroid backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
+Flash the latest build and GApps
+Reboot
+
+[B]DIRTY FLASH :[/B]
+Download the latest build and GApps
+Reboot to recovery
+Flash the latest build and GApps
+Wipe Cache [Not Necessary]
+Reboot
+
+[SIZE="5"][B][COLOR=Blue]Download[/COLOR][/B][/SIZE]
+
+[INDENT][SIZE="3"]
+Download [B]ROM:[/B]
+
+Download [B]Gapps:[/B]
+Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps 
+[B][URL="http://opengapps.org/"]OpenGApps[/URL][/B]
+
+[/SIZE][/INDENT]
+
+
+[SIZE="5"][B][COLOR=Blue]Credits & Thanks[/COLOR][/B][/SIZE]
+[SIZE="3"]
+[INDENT]
+[SIZE="5"][B][COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR][/B][/SIZE] team
+LineageOS team
+ResurrectionRemix team
+crDroid team
+AICP team
+Qijaz221 - EON Music Player
+And all other open source Devs/Teams.
+
+[/INDENT]
+[/SIZE]
+
+[SIZE="5"][B][COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR] TEAM[/B][/SIZE]
+[B]Mohan CM[/B] - The dotOS Founder/Lead Dev./Contributor
+[B]Ganesh Varma[/B]  - Lead Dev./Contributor/Maintainer
+[B]Kuber Sharma[/B] - Contributor/Designer/Analyst
+[B]Sam Grande[/B] - Contributor/Designer/Maintainer 
+[B]Iacob Ionut[/B]  - Contributor/Designer/Maintainer
+[B]Hari Ambadi[/B]  - Contributor/Core GFX/ Lead Designer
+
+
+
+[U][SIZE="3"][B]Sources[/B][/SIZE][/U]
+[URL="https://github.com/DotOS"]
+[SIZE="5"][B][COLOR="SeaGreen"]dot[/COLOR][COLOR="Red"]O[/COLOR][COLOR="Blue"]S[/COLOR] source[/URL][/B][/SIZE]
+
+[SIZE=5][B][COLOR=Blue] Reference Links[/COLOR][/B][/SIZE]
+[B][URL="https://t.me/joinchat/F5gV3UNJ7nQG2XB6iyuftg"]Telegram Group[/URL][/B]
+[B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
+[B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
+
+[IMG]https://i.imgur.com/fBKUqV1.png[/IMG][/CENTER]
