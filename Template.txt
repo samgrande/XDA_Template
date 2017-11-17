@@ -1,86 +1,225 @@
 [CENTER][IMG]https://avatars2.githubusercontent.com/u/29705874?v=4&s=200[/IMG]
 
- 
-
-[SIZE="5"][COLOR=#595959][B]Disclaimer[/B][/COLOR][/SIZE]
-[CODE]We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
-You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.[/CODE]
-
-"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."
-
-[SIZE="5"][COLOR=#595959][B]About [COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR][/B][/COLOR][/SIZE]
- [COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] is an Android Rom which focuses on performance and stability. Our aim is to enable an user to extract as much juice as possible and get most out of his/her device and to keep with time .
-Initially started by Mohan CM and later joined by Ganesh Varma, Sam Grande, Kuber Sharma, Iacob Ionut and Hari Ambadi. 
-
-[SIZE="5"][COLOR=#595959][B]Features[/B][/COLOR][/SIZE]
-
-Stability and Performance
-Lagfree with High-Performance Results
-Clutterless and beautiful UI
-Perfect Interface for every User
-
-Read more about Features here : [URL="https://dotos.github.io/index.html#features_section"]click here[/URL]
+[SIZE="5"][B] " [color="#f5b500"]#[/COLOR][color="#2ba851"]Droid[/COLOR][color="#e34036"]On[/COLOR][color="#3b85ed"]Time[/COLOR] " [/SIZE][/B]
 
 
-[SIZE="5"][COLOR=#595959][B]Instructions[/B][/COLOR][/SIZE]
-[B][COLOR="#2ba851"]CLEAN FLASH :[/COLOR][/B]
-Download the latest build and GApps
-Reboot to recovery
-Make nandroid backup (Not Necessary)
-Wipe System, Data, Cache, Dalvik
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/8d36482f8aeba2771147e7290dc952dfe1e2eb50/disclaimer.png[/IMG]
+
+[CODE][SIZE="4"] 
+/*
+ *
+ * Your warranty is now void.
+ * We are not responsible for anything that may happen to your phone by installing any custom ROMs and/or kernels. 
+ * You do it at your own risk and take the responsibility upon yourself and you are not to blame us or XDA and its respected developers.
+ *
+ */[/SIZE]
+ [/CODE]
+
+[SIZE="3"]"This is a user friendly thread, all your suggestions are important to us and will be taken into consideration.."[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/about.png[/IMG]
+
+[SIZE="3"]dotOS is an Android Rom which focuses on performance and stability. Our aim is to enable a user to extract as much juice as possible and get most out of his/her device.
+Initially started by Mohan CM and later joined by Ganesh, Sam, Kuber, Iacob and Hari. Together we stand strong.[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/features.png[/IMG]
+
+
+[FONT="Trebuchet MS"][SIZE="3"][B]Stability and Performance[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Lagfree with High Performance Results[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Clutterless UI[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Perfect Interface for every User[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Enhanced default apps[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Redesigned settings and QS panel[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Full OMS support[/B][/SIZE][/FONT]
+[FONT="Trebuchet MS"][SIZE="3"][B]Colour Engine Support[/B][/SIZE][/FONT]
+
+[FONT="Trebuchet MS"][SIZE="4"][B]DotExtras !![/B][/SIZE][/FONT]
+
+[B][COLOR="#2ba851"][SIZE="3"]STATUSBAR[/SIZE][/COLOR][/B]
+[HIDE]
+* Clock Customisation
+* Battery Customisation
+[/HIDE]
+
+[B][COLOR="#3b85ed"][SIZE="3"]Quick Settings[/SIZE][/COLOR][/B]
+[HIDE]
+* Quick Pulldown
+* QS Tiles Customisation
+* Advanced Quick Setting Easy Toggles
+[/HIDE]
+
+[B][COLOR="#2ba851"][SIZE="3"]Buttons[/SIZE][/COLOR][/B]
+[HIDE]
+* Volume Key Cursor Control
+[/HIDE]
+
+[B][COLOR="#3b85ed"][SIZE="3"]Display[/SIZE][/COLOR][/B]
+[HIDE]
+* Wake on Plug
+* Pocket Detection
+* Accidental Touch
+[/HIDE]
+
+[B][COLOR="#2ba851"][SIZE="3"]Lockscreen[/SIZE][/COLOR][/B]
+[HIDE]
+* Fingerprint Tweaks
+* Powermenu Tweaks
+* Double tap 2 sleep anywhere
+* Lockscreen Media Customisation
+* Blur Screen Lockscreen
+[/HIDE]
+
+[B][COLOR="#3b85ed"][SIZE="3"]Recents[/SIZE][/COLOR][/B]
+[HIDE]
+* Clear all Button
+* Immersive Recents
+* Show Memory Bar
+[/HIDE]
+
+[B][COLOR="#2ba851"][SIZE="3"]Navigation Bar[/SIZE][/COLOR][/B]
+[HIDE]
+* On screen navigation Bar tweaks
+* Home Button tweaks
+* Menu Button tweaks
+* Back Button tweaks
+* Power Button tweaks
+* Volume Buttons tweaks
+[/HIDE]
+
+[B][COLOR="#3b85ed"][SIZE="3"]Misc[/SIZE][/COLOR][/B]
+[HIDE]
+* Advanced Reboot
+* Disable Force Close
+* ScreenShot Tweaks
+* Camera Shutter Sound
+[/HIDE]
+
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/instructions.png[/IMG]
+
+[SIZE="4"][B]CLEAN FLASH :[/B][/SIZE]
+[SIZE="4"]Download the latest build and GApps
+Reboot to recovery 
+Make NAndroid backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
 Flash the latest build and GApps
-Reboot
+Reboot[/SIZE]
 
-[B][COLOR="#2ba851"]DIRTY FLASH :[/COLOR][/B]
-Download the latest build and GApps
+[SIZE="4"][B]DIRTY FLASH :[/B][/SIZE]
+[SIZE="4"]Download the latest build 
 Reboot to recovery
-Flash the latest build and GApps
-Wipe Cache [Not Necessary]
-Reboot
+Flash the latest build
+Wipe Cache
+Reboot[/SIZE]
 
-[SIZE="5"][B][COLOR=#595959]Download[/COLOR][/B][/SIZE]
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/downloads.png[/IMG]
 
-[INDENT][SIZE="3"]
-Download [B]ROM:[/B]
-
+[INDENT][SIZE="3"]Download [B]ROM:[/B]
+[URL="https://sourceforge.net/projects/dotos-ota/files/"]DotOS ROM[/URL]
+[SIZE="4"]
 Download [B]Gapps:[/B]
-Note : For better experience of  [COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] use Pico or Nano Gapps we dont recommend STOCK/HEAVY Gapps 
+Note : Pico or Nano Gapps are recommended. We Don't prefer STOCK/HEAVY Gapps
 [B][URL="http://opengapps.org/"]OpenGApps[/URL][/B]
-
+[/SIZE]
 [/SIZE][/INDENT]
-
-
-[SIZE="5"][B][COLOR=#595959]Credits & Thanks[/COLOR][/B][/SIZE]
-[SIZE="3"]
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/credits.png[/IMG]
+[SIZE="4"]
 [INDENT]
- [COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] team
+[SIZE="4"]
+[B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] team
 LineageOS team
 ResurrectionRemix team
+AospExtended
 crDroid team
 AICP team
-Qijaz221 - EON Music Player
-And all other open source Devs/Teams.
-
+And all other open source Devs/Teams.[/B]
+[/SIZE]
 [/INDENT]
 [/SIZE]
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/8d36482f8aeba2771147e7290dc952dfe1e2eb50/theteam.png[/IMG]
 
-[SIZE="5"][B] [COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] TEAM[/B][/SIZE]
-[B]Mohan CM[/B] -  Founder/Lead Dev./Contributor
-[B]Ganesh Varma[/B]  - Lead Dev./Contributor/Maintainer
-[B]Kuber Sharma[/B] - Contributor/Designer/Analyst
-[B]Sam Grande[/B] - Contributor/Designer/Maintainer 
-[B]Iacob Ionut[/B]  - Contributor/Designer/Maintainer
-[B]Hari Ambadi[/B]  - Contributor/Core GFX/ Lead Designer
+[SIZE="4"]
+[B][FONT="Trebuchet MS"]Mohan CM[/FONT][/B] - dotOS Founder/Lead Dev./Contributor
+[B][FONT="Trebuchet MS"]Ganesh Varma[/FONT][/B]  - Lead Dev./Contributor/Maintainer
+[B][FONT="Trebuchet MS"]Kuber Sharma[/FONT][/B] - Contributor/Designer/Analyst
+[B][FONT="Trebuchet MS"]Sam Grande[/FONT][/B] - Contributor/Designer/Maintainer 
+[B][FONT="Trebuchet MS"]Iacob Ionut[/FONT][/B]  - Contributor/Designer/Maintainer
+[B][FONT="Trebuchet MS"]Hari Ambadi[/FONT][/B]  - Contributor/Core GFX/ Lead Designer[/SIZE]
 
 
 
-[U][SIZE="3"][B]Sources[/B][/SIZE][/U]
-[URL="https://github.com/DotOS"]
-[SIZE="5"][B] [COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
+[IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/github.png[/IMG]
+[SIZE="4"][URL="https://github.com/DotOS"]
+[SIZE="5"][B][COLOR="#2ba851"]d[/COLOR][COLOR="#e34036"]o[/COLOR][COLOR="#f5b500"]t[/COLOR][COLOR="#3b85ed"]OS[/COLOR] source[/URL][/B][/SIZE]
 
-[SIZE=5][B][COLOR=#4286f4] Reference Links[/COLOR][/B][/SIZE]
-[B][URL="https://t.me/joinchat/F5gV3UNJ7nQG2XB6iyuftg"]Telegram Group[/URL][/B]
-[B][URL="https://dotos.github.io"]Website[/URL][/B]
+
+[B]Device Specific Sources[/B]
+Official Device specific sources:
+[url]https://github.com/dotOS-Devices[/url]
+
+Unofficial Device specific sources:
+....
+
+[SIZE=5][B][COLOR=#2ba851] Reference Links[/COLOR][/B][/SIZE]
+
+[IMG]https://github.com/DotOS/XDA_Template/blob/master/IMGs/g+.png?raw=true[/IMG]
+[B][URL="https://plus.google.com/communities/101137692192340076065"] Google Plus Community[/URL][/B]
+
+[CENTER][IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/d3f0f537cf18ce69465070e1750b7a28071988e3/telegram.png[/IMG]
+[B][URL="http://t.me/dotOS"]DotOS Group[/URL][/B]
 [B][URL="http://t.me/dotOSchannel"]dotOSChannel[/URL][/B]
 
-[IMG]https://i.imgur.com/fBKUqV1.png[/IMG][/CENTER]
+[SIZE="5"] [IMG]https://github.com/mohancm100/images/blob/master/lgo.png?raw=true[/IMG][/SIZE][/CENTER]
+[B][URL="https://dotos.github.io/index.html"]Website[/URL][/B]
+[/SIZE]
+
+[URL="https://www.paypal.me/MOHANCM"][IMG]https://raw.githubusercontent.com/samgrande/XDA_Template/master/cash.png[/IMG][/URL]
+
+[SIZE="3"][B][URL="https://www.paypal.me/MOHANCM"][COLOR=#3b85ed]Liked The ROm? Want to Help Us? Then gift us some credits[/COLOR][/URL][/B][/SIZE]
+
+[B][SIZE="4"]REPORTING BUGS![/SIZE][/B]
+As soon as the problem occurs, take a logcat! 
+[B]READ MORE[/B]
+[SIZE="3"][HIDE][B]What is a LogCat? [/B]
+A "LogCat" is for debugging applications / Android system. When applications / Android crash the output the "explanation" for the crash, the Exception Stacktrace, to a Log. This log can be saved and help developers to fix the crash.
+[B]What is it supposed to do?[/B]
+It will help to solve your questions, if your asked for a LogCat it is always useful.
+[B]How can I get a LogCat?[/B]
+[B]Prerequisites: [/B]
+[CODE]Linux, Windows or Mac 
+USB cable for your device 
+Android Device [/CODE]
+[B]Instructions:[/B]
+[CODE]Install your device driver for using adb. Everything you need will you find here
+Download adb executable for your OS (Download: Windows | Linux | Mac). Paste it somewhere.
+Connect your android device.
+Verify if "Settings > Developer options > USB debugging" is checked, if not, simply check it.
+Open a command prompt (windows) or terminal (linux / mac). How to do it: On Windows: windows + r > enter "cmd" (without quotes) > click enter | On Linux: You don't know how to open a terminal? LOL | On Mac: Type Terminal into Spotlight and open it
+CD to the directory where the adb executable is located. On Windows: Go to the directory where you downloaded the adb executable, Shift+Right Click and select "Open Console" (or similar) | On Linux / Mac: Rightclick in the directory and select "Open Terminal here" (or simply CD into the directory)
+Type in your cmd/terminal: adb devices to verify your device is properly connected.
+If your device is properly selected, type in adb logcat to show the mighty and magic logcat aka stacktrace.
+Reproduce your error (or whatever) on your device.
+Right after, paste the whole cmd / terminal window into a paste-service like [url]http://pastebin.com/[/url] and send it to us.[/CODE][/SIZE][/HIDE]
+
+[IMG]https://raw.githubusercontent.com/DotOS/XDA_Template/68572df91c1f9d7a238ae375b8410783c6dd28f4/IMGs/ATD.png[/IMG]
+[/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE=3][B]dotOS, ROM for the *Your Device*[/B][/SIZE]
+
+[B][U]Contributors[/U][/B]
+*Maintainer Name*
+[B]Source Code:[/B] [URL="https://github.com/DotOS"]https://github.com/DotOS[/URL]
+
+[B]ROM OS Version:[/B] 7.x Nougat
+[B]ROM Kernel:[/B] Linux 3.x
+[B]ROM Firmware Required:[/B] Must be on Marshmallow
+[B]Based On:[/B] LineageOS
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+[B]Current Stable Version:[/B] v1.1
+[B]Stable Release Date:[/B] 2017-11-05
+
+[B]Created[/B] 2017-11-05
+[B]Last Updated[/B] 2017-11-05
