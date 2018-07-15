@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: "Lato", sans-serif;
+  background-image: url('./../img/bg9.jpg');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;	
+    max-width: 99%;
+    padding: 25px 0 30px;
+}
+
+.wrapper {
+  background-color: #fff;
+  width: 85%;
+  height: 80%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 25px #3F3F3F;
+  margin-bottom: 25px;
+}
+
+.menu {
+  width: 100%;
+  height: 7.5%;
+  border-radius: 10px 10px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+  justify-content: space-between;
+}
+.menu__icon {
+  width: 17.5px;
+  height: 50%;
+  margin: 0 10px;
+  align-self: flex-end;
+}
+.menu__title {
+  font-size: 15px;
+  align-self: flex-end;
+  color: #43639d;
+  margin-bottom: 2.5px;
+}
+
+.card-list {
+  width: 100%;
+  overflow-y: hidden;
+  padding: 30px 0 0;
+  flex-grow: 1;
+}
+
+.card {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 12.5px;
+  border-radius: 5px;
+  padding: 15px 25px;
+  box-shadow: 0 10px 25px #dcdcdc;
+}
+.card__image {
+  text-align: center;
+  letter-spacing: 3.77px;
+  color: #fff;
+  margin-bottom: 28px;	
+  margin-top: 28px;
+  font-size: 20px;
+}
+.card__number {
+  text-align: center;
+  letter-spacing: 3.77px;
+  color: #fff;
+  margin-bottom: 28px;
+  font-size: 20px;
+}
+.card__titlebig {
+  text-align: center;
+  letter-spacing: 3.77px;
+  color: #353535;
+  font-size: 15px;
+  font-weight: 400
+}
+.card__owner {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+.card__info {	
+  text-align: right;
+  letter-spacing: 3.77px;
+  color: #fff;
+  margin-top: 28px;
+	
+}
+.card__amount {	
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 17px;
+}
+.card__integral, .card__amount {
+  color: #fff;
+  font-weight: 300;
+  letter-spacing: 0.25px;
+}
+.card--one {
+  background: linear-gradient(to right, #d194ff, #9389ff);
+}
+.card--two {
+  background: linear-gradient(to right, #7cbfee, #00d0b8);
+}
+.card--three {
+  background: linear-gradient(to right, #ff77a7, #ff7b7e);
+}
+
+.card--four {
+  background: linear-gradient(to right, #ffac53, #f76943);
+}
+
+.card--five {
+  background: linear-gradient(to right, #10a1fe, #1bd3ff);
+}
+
+.card--six {
+  background: linear-gradient(to right, #5bc5df, #4dff90);
+}
+
+.card--seven {
+  background: linear-gradient(to right, #a346eb, #f65096);
+}
+
+.author {
+  text-decoration: none;
+  font-size: 12.5px;
+}
+.author:link, .author:visited, .author:hover, .author:active {
+  color: #43639d;
+}
